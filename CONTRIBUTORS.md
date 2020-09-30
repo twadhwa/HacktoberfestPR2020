@@ -23,7 +23,7 @@
 
 #### Name: Harshit Singh
  - Place: Lucknow, Uttar Pradesh, India
- - Bio: B.Tech Student, Punjab Engineering College, General Secretary [IEEE PEC Student Branch](https://www.linkedin.com/company/ieee-pec/)
+ - Bio: B.Tech Student, Punjab Engineering , General Secretary [IEEE PEC Student Branch](https://www.linkedin.com/company/ieee-pec/)
  - Github: [Harshit564](https://github.com/Harshit564)
 
 #### Name: Vrinda Gupta
@@ -32,3 +32,7 @@
  - GitHub: [Vrinda Gupta](https://github.com/Vrindagupta6828)
 
 >>>>>>> master
+#### NAME : Tushar Wadhwa 
+ - Place: New Delhi , Delhi 
+ - Bio: B Tech Student, Netaji Subhash University of Technology
+ - Github: [twadhwa ](https://github.com/twadhwa)
